@@ -1,5 +1,6 @@
-/tmp/
+.DS_Store
 img/.DS_Store
-img/Thumbs.db
 img/NeuroStartUp.png_backup
+img/Thumbs.db
 index.html_old
+tmp/
